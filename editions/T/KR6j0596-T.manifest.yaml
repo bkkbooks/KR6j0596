@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0596/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0596/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說祕密八名陀羅尼經
+  identifiers:
+    krp: KR6j0596
+    cbeta: T21n1366
+    cbeta_old_id: T21n1366
+    authorityid: CA0002212
+    json_key: T1366
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1366.xml
+    old_id: T21n1366
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0596_000-T.yaml, hash: 'sha256:05d3801e0b8b006e0724b860cc1e8bd1f5ab6e4119d814a67c0e76fd440470e0'}
+  - {seq: 1, filename: KR6j0596_001-T.yaml, hash: 'sha256:dc0c5fb577a96505bdf1585a96f445117ef7f25fa4e370b0ec4ada5935affaa1'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0596_000-T.markers.yaml, hash: 'sha256:567be8068a337cfc6487bfbce46c5cb9712d05df5938444029ed07554f384a84'}
+  - {seq: 1, role: markers, filename: assets/KR6j0596_001-T.markers.yaml, hash: 'sha256:218bb77084374fa64ebd1400aaa272a55574fe25dc992ffecf1b24f1852ae2ff'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0596_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 667
+  label: 佛說祕密八名陀羅尼經
+  type: juan
+  level: 1
+hash: sha256:d3d5ab7d9a97f0ea750f759e7fe1191c8e7fcb8b4cc51c980f8768c3cf5d6f03

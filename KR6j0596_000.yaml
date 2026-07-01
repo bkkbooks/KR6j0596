@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0596/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說祕密八名陀羅尼經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1366.xml
+    old_id: T21n1366
+hash: sha256:05d3801e0b8b006e0724b860cc1e8bd1f5ab6e4119d814a67c0e76fd440470e0
