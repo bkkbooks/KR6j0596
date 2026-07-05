@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0596_000.yaml, hash: 'sha256:05d3801e0b8b006e0724b860cc1e8bd1f5ab6e4119d814a67c0e76fd440470e0'}
-  - {seq: 1, filename: KR6j0596_001.yaml, hash: 'sha256:11d75c82faa48c42145efb2a9174b796c7a1a681e9dca1d2a1faac86f1d5e240'}
+  - {seq: 1, filename: KR6j0596_001.yaml, hash: 'sha256:dc0c5fb577a96505bdf1585a96f445117ef7f25fa4e370b0ec4ada5935affaa1'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0596_001.markers.yaml, hash: 'sha256:f53ea46f2ce908258281d58955ca1b7ddb3d9706d03bb5f16c8bf33d414720bb'}
+  - {seq: 0, role: markers, filename: assets/KR6j0596_000.markers.yaml, hash: 'sha256:80341325e4c6d03e4a831fb9d92c6f5a90c157fe5d8af66900f1330d311533a7'}
+  - {seq: 1, role: markers, filename: assets/KR6j0596_001.markers.yaml, hash: 'sha256:c4cd3a254a25ba9f0c27bac3e7b414d81756b8c25e39218f60f7853933643ac6'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 佛說祕密八名陀羅尼經
   type: juan
   level: 1
-hash: sha256:a137330d8517e0bef3d9160615001c6e49ebf9c2b3c965f1b0427083e6cd3160
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:7f38739b978511dcfcaed1a9584711c2469acab5f67efe0719a2b27d8cad20f4
