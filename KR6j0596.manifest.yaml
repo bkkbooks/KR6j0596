@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0596/v1
 canonical_location: https://kanripo.org/bkk/KR6j0596/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說祕密八名陀羅尼經
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0596_000.yaml, hash: 'sha256:05d3801e0b8b006e0724b860cc1e8bd1f5ab6e4119d814a67c0e76fd440470e0'}
-  - {seq: 1, filename: KR6j0596_001.yaml, hash: 'sha256:dc0c5fb577a96505bdf1585a96f445117ef7f25fa4e370b0ec4ada5935affaa1'}
+  - {seq: 1, filename: KR6j0596_001.yaml, hash: 'sha256:6acf8f5609aeda7bf2331b23e873088628d84b60d2447935b7f9190a46f24e33'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0596_000.markers.yaml, hash: 'sha256:80341325e4c6d03e4a831fb9d92c6f5a90c157fe5d8af66900f1330d311533a7'}
-  - {seq: 1, role: markers, filename: assets/KR6j0596_001.markers.yaml, hash: 'sha256:c4cd3a254a25ba9f0c27bac3e7b414d81756b8c25e39218f60f7853933643ac6'}
+  - {seq: 1, role: markers, filename: assets/KR6j0596_001.markers.yaml, hash: 'sha256:0ee1e1b3ef9971b971fd628ea53d323c89e2428ac69c1df73a3e246f1d213450'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,4 +46,7 @@ table_of_contents:
   label: 佛說祕密八名陀羅尼經
   type: juan
   level: 1
-hash: sha256:7f38739b978511dcfcaed1a9584711c2469acab5f67efe0719a2b27d8cad20f4
+hash: sha256:d10d1c19f3d64ea33ce0c74ed5ce81f9e9fa20ed2745e3343851c6263032c168
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
